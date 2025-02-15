@@ -1,0 +1,13 @@
+apiVersion: 1
+
+datasources:
+  - name: PostgreSQL
+    type: postgres
+    url: timescaledb:5432
+    database: crypto_db
+    user: crypto_user
+    secureJsonData:
+      password: 'crypto_password'
+    jsonData:
+      sslmode: 'verify-full'
+      sslRootCertFile: '/root/.postgresql/root.crt' 
