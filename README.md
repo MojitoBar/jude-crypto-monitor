@@ -97,7 +97,7 @@ project/
 - 시계열 기반 가격 추이 분석
 - 커스텀 알림 설정
 
-![Image](https://github.com/user-attachments/assets/9f74e7d3-9c66-42bd-92c2-a322c5414fed)
+![Image](https://github.com/user-attachments/assets/1c4b1aaa-9bb1-4025-884a-c3a5a2750d78)
 
 ## 🚀 주요 성과
 
